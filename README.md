@@ -5,6 +5,7 @@
 </p>
 <h1 align="center">
   Gatsby Minimal TypeScript Starter
+  https://www.gatsbyjs.com/docs/tutorial/part-1/
 </h1>
 
 ## 🚀 Quick start
